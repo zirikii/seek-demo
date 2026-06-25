@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* shadcn semantic tokens mapped to the SEEK palette (HSL channels). */
+    --background: 0 0% 100%;
+    --foreground: 215 22% 23%; /* #2E3849 navy ink */
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 22% 23%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 22% 23%;
+
+    /* SEEK Pink #E60278 */
+    --primary: 327 99% 45%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 220 17% 96%;
+    --secondary-foreground: 215 22% 23%;
+
+    --muted: 220 17% 96%;
+    --muted-foreground: 222 16% 44%; /* #505A6E */
+
+    --accent: 327 89% 95%; /* pink-light */
+    --accent-foreground: 327 99% 38%;
+
+    --destructive: 359 60% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 7% 90%; /* #E4E5E7 */
+    --input: 220 7% 90%;
+    --ring: 327 99% 45%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-surface-subtle text-ink;
+    font-feature-settings:
+      "rlig" 1,
+      "calt" 1;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-semibold tracking-tight text-seek-navy;
+  }
+}
+
+@layer components {
+  /* Focus ring used across interactive controls for keyboard accessibility. */
+  .focus-ring {
+    @apply outline-none ring-offset-2 ring-offset-white focus-visible:ring-2 focus-visible:ring-seek-pink;
+  }
+
+  .container-page {
+    @apply mx-auto w-full max-w-[1200px] px-4 sm:px-6 lg:px-8;
+  }
+}
+
+/* Thin, unobtrusive scrollbars for the sticky job detail panel. */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #cbccd3 transparent;
+}
+.scrollbar-thin::-webkit-scrollbar {
+  width: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: #cbccd3;
+  border-radius: 9999px;
+}

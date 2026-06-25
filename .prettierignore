@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+build
+coverage
+package-lock.json
+public/brand
+public/employers
+data
+playwright-report
+test-results
+recordings
