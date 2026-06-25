@@ -1,0 +1,26 @@
+[
+  {
+    "id": "app_0001",
+    "jobId": "job_023",
+    "appliedAt": "2026-06-23T21:57:58.831Z",
+    "status": "Viewed",
+    "resumeName": "Alex_Taylor_Resume.pdf",
+    "coverNote": "Excited about the product role and the chance to own the roadmap."
+  },
+  {
+    "id": "app_0002",
+    "jobId": "job_014",
+    "appliedAt": "2026-06-19T21:57:58.831Z",
+    "status": "Shortlisted",
+    "resumeName": "Alex_Taylor_Resume.pdf",
+    "coverNote": ""
+  },
+  {
+    "id": "app_0003",
+    "jobId": "job_009",
+    "appliedAt": "2026-06-10T21:57:58.831Z",
+    "status": "Unsuccessful",
+    "resumeName": "Alex_Taylor_Resume.pdf",
+    "coverNote": ""
+  }
+]
