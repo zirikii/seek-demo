@@ -1,0 +1,45 @@
+{
+  "disclaimer": "Unofficial demo. Not affiliated with, endorsed by, or sponsored by SEEK Limited. The SEEK name and look-and-feel are referenced here purely for UI/UX fidelity in a non-commercial demo. All brand assets below are recreated approximations, not official SEEK files.",
+  "brandColors": {
+    "pink": "#E60278",
+    "navy": "#2E3849"
+  },
+  "createdOn": "2026-06-25",
+  "assets": [
+    {
+      "filename": "logo.svg",
+      "origin": "recreated",
+      "note": "Pink 'SEEK' wordmark recreated as geometric stroked letterforms (SEEK Pink #E60278). Approximation for demo fidelity only."
+    },
+    {
+      "filename": "logo-white.svg",
+      "origin": "recreated",
+      "note": "Reversed/white 'SEEK' wordmark for navy headers/footers."
+    },
+    {
+      "filename": "logo-mark.svg",
+      "origin": "recreated",
+      "note": "Icon-only 'S' mark derived from the wordmark."
+    },
+    {
+      "filename": "icon.svg",
+      "origin": "recreated",
+      "note": "App/browser icon: white 'S' on a rounded SEEK Pink tile."
+    },
+    {
+      "filename": "favicon.ico",
+      "origin": "recreated",
+      "note": "Multi-size (16/32/48) favicon rasterised from icon.svg via scripts/generate-favicon.mjs."
+    },
+    {
+      "filename": "icon-512.png",
+      "origin": "recreated",
+      "note": "512px PNG icon rasterised from icon.svg for PWA/social contexts."
+    }
+  ],
+  "fetchAttempted": [
+    "https://www.seek.com.au/favicon.ico",
+    "https://au.seek.com/favicon.ico"
+  ],
+  "reproduce": "bash scripts/fetch-brand-assets.sh"
+}
