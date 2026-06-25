@@ -13,7 +13,7 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
-    "video": "tsx scripts/record-walkthrough.ts"
+    "video": "playwright test walkthrough.spec.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
