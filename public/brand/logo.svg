@@ -1,17 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100" role="img" aria-label="SEEK">
-  <title>SEEK</title>
-  <g fill="none" stroke="#E60278" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
-    <!-- S -->
-    <path d="M74 33 C74 21 59 16 44 16 C27 16 16 25 16 37 C16 52 37 54 50 58 C66 62 74 68 74 78 C74 88 56 88 41 86 C29 84 19 78 16 70" />
-    <!-- E -->
-    <path d="M152 18 L104 18 L104 84 L152 84" />
-    <path d="M104 51 L144 51" />
-    <!-- E -->
-    <path d="M230 18 L182 18 L182 84 L230 84" />
-    <path d="M182 51 L222 51" />
-    <!-- K -->
-    <path d="M262 16 L262 84" />
-    <path d="M314 16 L264 52" />
-    <path d="M286 46 L316 84" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 100" role="img" aria-label="seek">
+  <title>seek</title>
+  <circle cx="50" cy="50" r="50" fill="#1F3C88" />
+  <g>
+    <circle cx="21" cy="42.4" r="2.5" fill="#FFFFFF" />
+    <circle cx="21" cy="50.0" r="2.5" fill="#FFFFFF" />
+    <circle cx="21" cy="57.6" r="2.5" fill="#FFFFFF" />
+    <circle cx="29" cy="42.4" r="2.7" fill="#FFFFFF" />
+    <circle cx="29" cy="50.0" r="2.7" fill="#FFFFFF" />
+    <circle cx="29" cy="57.6" r="2.7" fill="#FFFFFF" />
+    <circle cx="37" cy="42.4" r="2.9" fill="#FFFFFF" />
+    <circle cx="37" cy="50.0" r="2.9" fill="#FFFFFF" />
+    <circle cx="37" cy="57.6" r="2.9" fill="#FFFFFF" />
+    <circle cx="45" cy="27.2" r="3.1" fill="#FFFFFF" />
+    <circle cx="45" cy="34.8" r="3.1" fill="#FFFFFF" />
+    <circle cx="45" cy="42.4" r="3.1" fill="#FFFFFF" />
+    <circle cx="45" cy="50.0" r="3.1" fill="#FFFFFF" />
+    <circle cx="45" cy="57.6" r="3.1" fill="#FFFFFF" />
+    <circle cx="45" cy="65.2" r="3.1" fill="#FFFFFF" />
+    <circle cx="45" cy="72.8" r="3.1" fill="#FFFFFF" />
+    <circle cx="53" cy="34.8" r="3.5" fill="#FFFFFF" />
+    <circle cx="53" cy="42.4" r="3.5" fill="#FFFFFF" />
+    <circle cx="53" cy="50.0" r="3.5" fill="#FFFFFF" />
+    <circle cx="53" cy="57.6" r="3.5" fill="#FFFFFF" />
+    <circle cx="53" cy="65.2" r="3.5" fill="#FFFFFF" />
+    <circle cx="61" cy="42.4" r="3.9" fill="#FFFFFF" />
+    <circle cx="61" cy="50.0" r="3.9" fill="#FFFFFF" />
+    <circle cx="61" cy="57.6" r="3.9" fill="#FFFFFF" />
+    <circle cx="69" cy="50.0" r="4.4" fill="#FFFFFF" />
   </g>
+  <text x="118" y="72" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800" letter-spacing="-3" fill="#0A0A0A">seek</text>
 </svg>

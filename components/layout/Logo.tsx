@@ -6,14 +6,14 @@ interface LogoProps {
   variant?: "pink" | "white";
   href?: string;
   className?: string;
-  /** Rendered logo height in pixels (width scales to the 3.6:1 wordmark ratio). */
+  /** Rendered logo height in pixels (width scales to the 2.8:1 lockup ratio). */
   height?: number;
 }
 
-/** SEEK wordmark, linked. Uses the recreated brand SVGs under /brand. */
-export function Logo({ variant = "pink", href = "/", className, height = 28 }: LogoProps) {
+/** seek logo (dotted-arrow mark + wordmark), linked. Uses the brand SVGs under /brand. */
+export function Logo({ variant = "pink", href = "/", className, height = 30 }: LogoProps) {
   const src = variant === "white" ? "/brand/logo-white.svg" : "/brand/logo.svg";
-  const width = Math.round(height * 3.6);
+  const width = Math.round(height * 2.8);
   return (
     <Link
       href={href}
