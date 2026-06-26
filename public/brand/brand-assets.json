@@ -1,0 +1,42 @@
+{
+  "disclaimer": "Unofficial demo. Not affiliated with, endorsed by, or sponsored by SEEK Limited. The look-and-feel is referenced here purely for UI/UX fidelity in a non-commercial demo. All brand assets below are recreated approximations, not official files.",
+  "brandColors": {
+    "markNavy": "#1F3C88",
+    "accentPink": "#E60278"
+  },
+  "createdOn": "2026-06-25",
+  "updatedOn": "2026-06-26",
+  "assets": [
+    {
+      "filename": "logo.svg",
+      "origin": "recreated",
+      "note": "Horizontal lockup: navy circle with a white dotted right-arrow mark + black lowercase 'seek' wordmark. Recreated approximation of the supplied brand mark for demo fidelity only."
+    },
+    {
+      "filename": "logo-white.svg",
+      "origin": "recreated",
+      "note": "Reversed lockup for dark/navy backgrounds: white circle, navy dotted arrow, white 'seek' wordmark."
+    },
+    {
+      "filename": "logo-mark.svg",
+      "origin": "recreated",
+      "note": "Icon-only circular mark: navy circle with the white dotted right-arrow."
+    },
+    {
+      "filename": "icon.svg",
+      "origin": "recreated",
+      "note": "App/browser icon: navy circle with the white dotted right-arrow mark."
+    },
+    {
+      "filename": "favicon.ico",
+      "origin": "recreated",
+      "note": "Multi-size (16/32/48) favicon rasterised from icon.svg via scripts/generate-favicon.mjs."
+    },
+    {
+      "filename": "icon-512.png",
+      "origin": "recreated",
+      "note": "512px PNG icon rasterised from icon.svg for PWA/social contexts."
+    }
+  ],
+  "reproduce": "node scripts/generate-logo.mjs && node scripts/generate-favicon.mjs"
+}

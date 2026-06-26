@@ -1,0 +1,40 @@
+[
+  {
+    "id": "search_0001",
+    "keywords": "Software Engineer",
+    "location": "Sydney NSW",
+    "filters": {
+      "classification": "Information & Communication Technology",
+      "workType": "Full time",
+      "salaryMin": 120000
+    },
+    "frequency": "daily",
+    "createdAt": "2026-06-20T21:57:58.831Z",
+    "lastNotifiedAt": "2026-06-24T21:57:58.831Z",
+    "newResults": 4
+  },
+  {
+    "id": "search_0002",
+    "keywords": "Registered Nurse",
+    "location": "Gold Coast QLD",
+    "filters": {
+      "classification": "Healthcare & Medical"
+    },
+    "frequency": "weekly",
+    "createdAt": "2026-06-13T21:57:58.831Z",
+    "lastNotifiedAt": "2026-06-21T21:57:58.831Z",
+    "newResults": 2
+  },
+  {
+    "id": "search_0003",
+    "keywords": "Product Manager",
+    "location": "All Australia",
+    "filters": {
+      "workType": "Full time",
+      "salaryMin": 150000
+    },
+    "frequency": "off",
+    "createdAt": "2026-06-05T21:57:58.831Z",
+    "newResults": 0
+  }
+]

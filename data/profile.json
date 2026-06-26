@@ -1,0 +1,74 @@
+{
+  "userId": "user_demo0001",
+  "personal": {
+    "firstName": "Alex",
+    "lastName": "Taylor",
+    "email": "candidate@example.com",
+    "phone": "0400 123 456",
+    "location": "Sydney NSW",
+    "headline": "Full Stack Software Engineer | React & TypeScript",
+    "summary": "Product-minded full stack engineer with 6+ years building accessible, high-performance web applications. I enjoy shipping end-to-end features, mentoring others and turning ambiguous problems into clean, maintainable software."
+  },
+  "careerHistory": [
+    {
+      "id": "ch_001",
+      "title": "Software Engineer",
+      "company": "Brightline Digital",
+      "location": "Sydney NSW",
+      "startDate": "Mar 2021",
+      "endDate": "Present",
+      "description": "Lead front-end development on a customer-facing SaaS platform, improving Core Web Vitals by 40% and mentoring two junior engineers."
+    },
+    {
+      "id": "ch_002",
+      "title": "Junior Developer",
+      "company": "Harbour Apps",
+      "location": "Sydney NSW",
+      "startDate": "Feb 2019",
+      "endDate": "Feb 2021",
+      "description": "Built and maintained React components and Node.js services across several client projects."
+    }
+  ],
+  "education": [
+    {
+      "id": "ed_001",
+      "qualification": "Bachelor of Computer Science",
+      "institution": "University of Sydney",
+      "completed": "2018"
+    }
+  ],
+  "skills": [
+    "React",
+    "TypeScript",
+    "Node.js",
+    "Next.js",
+    "GraphQL",
+    "AWS",
+    "Accessibility",
+    "Testing"
+  ],
+  "licences": [
+    {
+      "id": "lic_001",
+      "name": "Working with Children Check",
+      "detail": "Verified"
+    },
+    {
+      "id": "lic_002",
+      "name": "AWS Certified Developer – Associate",
+      "detail": "Expires 2027"
+    }
+  ],
+  "preferences": {
+    "workTypes": [
+      "Full time"
+    ],
+    "locations": [
+      "Sydney NSW",
+      "Remote"
+    ],
+    "salaryExpectation": 150000,
+    "classification": "Information & Communication Technology",
+    "openToWork": true
+  }
+}
