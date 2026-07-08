@@ -1,0 +1,36 @@
+{
+  "name": "demo-monorepo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Monorepo of standalone demo apps that share a common @demo/ui package.",
+  "packageManager": "pnpm@10.33.3",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "pnpm --recursive --filter \"./apps/*\" run build",
+    "lint": "pnpm --recursive run lint",
+    "test": "pnpm --recursive run test",
+    "typecheck": "pnpm --recursive run typecheck",
+    "dev:kddi": "pnpm --filter kddi-noc-dashboard dev",
+    "dev:nab": "pnpm --filter nab-landing dev",
+    "dev:naukri": "pnpm --filter naukri-job-portal dev",
+    "dev:seek": "pnpm --filter seek-marketplace-demo dev",
+    "build:kddi": "pnpm --filter kddi-noc-dashboard build",
+    "build:nab": "pnpm --filter nab-landing build",
+    "build:naukri": "pnpm --filter naukri-job-portal build",
+    "build:seek": "pnpm --filter seek-marketplace-demo build",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\" --ignore-path .gitignore"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "unrs-resolver",
+      "@tailwindcss/oxide"
+    ]
+  }
+}

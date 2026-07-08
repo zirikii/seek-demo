@@ -1,0 +1,46 @@
+{
+  "name": "@demo/ui",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Shared UI utilities, design tokens, and components consumed by every app in the demo monorepo.",
+  "type": "module",
+  "sideEffects": [
+    "*.css"
+  ],
+  "files": [
+    "src",
+    "tokens.css"
+  ],
+  "exports": {
+    ".": "./src/index.ts",
+    "./cn": "./src/cn.ts",
+    "./cx": "./src/cx.ts",
+    "./tokens": "./src/tokens.ts",
+    "./tokens.css": "./tokens.css",
+    "./components/demo-ribbon": "./src/components/demo-ribbon.tsx"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.6.0"
+  },
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "peerDependenciesMeta": {
+    "react": {
+      "optional": true
+    },
+    "react-dom": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "typescript": "^5.7.2"
+  }
+}
