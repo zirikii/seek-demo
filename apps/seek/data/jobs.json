@@ -1,0 +1,988 @@
+[
+  {
+    "id": "job_001",
+    "title": "Registered Nurse - Aged Care",
+    "employerId": "emp_016",
+    "location": {
+      "area": "Gold Coast",
+      "city": "Gold Coast",
+      "state": "QLD"
+    },
+    "workType": "Full time",
+    "classification": "Healthcare & Medical",
+    "subClassification": "Nursing - Aged Care",
+    "salary": {
+      "min": 80000,
+      "max": 95000,
+      "period": "year",
+      "display": "$80,000 – $95,000 + super"
+    },
+    "teaser": "Join a values-driven aged-care provider delivering compassionate, person-centred care on the Gold Coast.",
+    "bullets": [
+      "Supportive multidisciplinary team",
+      "Paid professional development",
+      "Salary packaging up to $15,900"
+    ],
+    "description": "## About the role\n\nWe're seeking a compassionate Registered Nurse to join our residential aged-care team. You'll provide high-quality clinical care to residents while leading and mentoring a team of care staff.\n\n## What you'll be doing\n\n- Deliver person-centred clinical care and develop individual care plans\n- Administer medications and manage clinical documentation\n- Mentor and support enrolled nurses and care workers\n- Liaise with families, GPs and allied health professionals\n\n## What we're looking for\n\n- Current AHPRA registration as a Registered Nurse\n- Experience in aged or community care (highly regarded)\n- Strong communication and assessment skills\n- A current National Police Check (or willingness to obtain)\n\n## What's on offer\n\n- Generous not-for-profit salary packaging\n- Ongoing professional development and study support\n- Flexible rostering with work-life balance\n\n## About Coastline Care\n\nCoastline Care is a leading healthcare & medical organisation. Aged and community care, close to home. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Coastline Care as a Registered Nurse - Aged Care. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-24T21:57:58.831Z",
+    "featured": true,
+    "aiInsight": "Based on your profile, you could be a strong match for this Healthcare & Medical role. Similar candidates highlighted supportive multidisciplinary team as a key drawcard."
+  },
+  {
+    "id": "job_002",
+    "title": "Senior Software Engineer (Full Stack)",
+    "employerId": "emp_009",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Developers/Programmers",
+    "salary": {
+      "min": 140000,
+      "max": 170000,
+      "period": "year",
+      "display": "$140,000 – $170,000 + super + equity"
+    },
+    "teaser": "Build delightful, large-scale web products with a modern TypeScript stack and a world-class team.",
+    "bullets": [
+      "Hybrid working (2 days in office)",
+      "Meaningful equity",
+      "Conference & learning budget"
+    ],
+    "description": "## About the role\n\nStackforge is looking for a Senior Full Stack Engineer to help us design, build and scale our SaaS platform. You'll work end-to-end across React/TypeScript front-ends and Node.js services.\n\n## What you'll be doing\n\n- Design and ship features across the full stack (React, TypeScript, Node.js)\n- Lead technical design discussions and review code\n- Mentor mid-level engineers and raise the engineering bar\n- Partner with product and design to deliver customer value\n\n## What we're looking for\n\n- 5+ years building production web applications\n- Deep expertise in React, TypeScript and modern Node.js\n- Experience with cloud infrastructure (AWS preferred)\n- Pragmatic approach to testing, observability and performance\n\n## What's on offer\n\n- Flexible hybrid working and generous leave\n- Equity in a fast-growing company\n- $3,000 annual learning and conference budget\n\n## About Stackforge\n\nStackforge is a leading information & communication technology organisation. Software that scales with your ambition. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Stackforge as a Senior Software Engineer (Full Stack). We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-23T21:57:58.831Z",
+    "featured": true,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted hybrid working (2 days in office) as a key drawcard."
+  },
+  {
+    "id": "job_003",
+    "title": "Administration Assistant",
+    "employerId": "emp_012",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Administration & Office Support",
+    "subClassification": "Administrative Assistants",
+    "salary": {
+      "min": 65000,
+      "max": 72000,
+      "period": "year",
+      "display": "$65,000 – $72,000 + super"
+    },
+    "teaser": "Be the organised heartbeat of a busy professional-services team in the Sydney CBD.",
+    "bullets": [
+      "Modern CBD office",
+      "Friendly, supportive team",
+      "Genuine career progression"
+    ],
+    "description": "## About the role\n\nWe're looking for a proactive Administration Assistant to provide first-class support to our advisory team. No two days are the same in this varied, people-focused role.\n\n## What you'll be doing\n\n- Manage diaries, meetings and travel arrangements\n- Prepare documents, reports and client correspondence\n- Coordinate office operations and supplies\n- Provide a warm, professional first point of contact\n\n## What we're looking for\n\n- Previous administration or office-support experience\n- Excellent organisation and attention to detail\n- Strong Microsoft Office skills\n- A positive, can-do attitude\n\n## What's on offer\n\n- Structured onboarding and mentoring\n- Clear pathways into operations or client services\n- Vibrant social and wellbeing program\n\n## About Pinnacle Advisory\n\nPinnacle Advisory is a leading accounting organisation. Trusted advice for ambitious businesses. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Pinnacle Advisory as a Administration Assistant. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-22T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Administration & Office Support role. Similar candidates highlighted modern cbd office as a key drawcard."
+  },
+  {
+    "id": "job_004",
+    "title": "Construction Project Manager",
+    "employerId": "emp_008",
+    "location": {
+      "area": "CBD, Inner & Western Suburbs",
+      "city": "Perth",
+      "state": "WA"
+    },
+    "workType": "Full time",
+    "classification": "Construction",
+    "subClassification": "Project Management",
+    "salary": {
+      "min": 160000,
+      "max": 190000,
+      "period": "year",
+      "display": "$160,000 – $190,000 + super + vehicle"
+    },
+    "teaser": "Lead major civil and resources projects from planning through to successful delivery.",
+    "bullets": [
+      "Tier-1 project pipeline",
+      "Vehicle allowance",
+      "Industry-leading safety culture"
+    ],
+    "description": "## About the role\n\nAn experienced Construction Project Manager is required to lead the delivery of complex civil infrastructure projects across WA. You'll own budget, schedule, quality and safety outcomes.\n\n## What you'll be doing\n\n- Manage end-to-end project delivery and stakeholder relationships\n- Own project budgets, programs and risk registers\n- Lead site teams and subcontractors to deliver safely and on time\n- Champion a zero-harm safety culture\n\n## What we're looking for\n\n- Degree in Construction Management, Civil Engineering or similar\n- 10+ years managing major construction or civil projects\n- Strong commercial and contract-management acumen\n- Excellent leadership and communication skills\n\n## What's on offer\n\n- Competitive package with vehicle allowance\n- A pipeline of long-term, high-profile projects\n- Genuine investment in your professional development\n\n## About Ironbark Resources\n\nIronbark Resources is a leading engineering organisation. Responsible resources for a changing world. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Ironbark Resources as a Construction Project Manager. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-21T21:57:58.831Z",
+    "featured": true,
+    "aiInsight": "Based on your profile, you could be a strong match for this Construction role. Similar candidates highlighted tier-1 project pipeline as a key drawcard."
+  },
+  {
+    "id": "job_005",
+    "title": "Customer Service Consultant",
+    "employerId": "emp_003",
+    "location": {
+      "area": "North Shore & Northern Beaches",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Administration & Office Support",
+    "subClassification": "Client & Sales Administration",
+    "salary": {
+      "min": 60000,
+      "max": 66000,
+      "period": "year",
+      "display": "$60,000 – $66,000 + super + bonus"
+    },
+    "teaser": "Help customers stay connected and deliver standout service in a supportive contact-centre team.",
+    "bullets": [
+      "Paid training provided",
+      "Monthly performance bonus",
+      "Hybrid after ramp-up"
+    ],
+    "description": "## About the role\n\nJoin our customer-service team and be the friendly voice that helps customers get the most from their service. We provide full training — you bring the great attitude.\n\n## What you'll be doing\n\n- Resolve customer enquiries across phone, chat and email\n- Identify opportunities to better meet customer needs\n- Maintain accurate records in our CRM\n- Contribute to a positive, high-performing team\n\n## What we're looking for\n\n- Customer-service or retail experience\n- Excellent communication and problem-solving skills\n- Comfortable working towards service targets\n- Available to work rotating rosters\n\n## What's on offer\n\n- Comprehensive paid training\n- Monthly bonus and recognition program\n- Discounts on products and services\n\n## About Optus\n\nOptus is a leading information & communication technology organisation. It starts with yes. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Optus as a Customer Service Consultant. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-24T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Administration & Office Support role. Similar candidates highlighted paid training provided as a key drawcard."
+  },
+  {
+    "id": "job_006",
+    "title": "Primary School Teacher",
+    "employerId": "emp_015",
+    "location": {
+      "area": "Adelaide",
+      "city": "Adelaide",
+      "state": "SA"
+    },
+    "workType": "Full time",
+    "classification": "Education & Training",
+    "subClassification": "Teaching - Primary",
+    "salary": {
+      "min": 78000,
+      "max": 110000,
+      "period": "year",
+      "display": "$78,000 – $110,000 + super"
+    },
+    "teaser": "Inspire young learners in a well-resourced, supportive school community.",
+    "bullets": [
+      "Strong mentoring program",
+      "Modern learning facilities",
+      "Relocation support available"
+    ],
+    "description": "## About the role\n\nWe're seeking a passionate Primary School Teacher to join our dedicated team. You'll create engaging, inclusive learning experiences that help every student thrive.\n\n## What you'll be doing\n\n- Plan and deliver engaging, curriculum-aligned lessons\n- Assess and report on student progress\n- Foster a positive, inclusive classroom environment\n- Partner with families and colleagues to support learning\n\n## What we're looking for\n\n- Bachelor of Education or equivalent teaching qualification\n- Current teacher registration (or eligibility)\n- A genuine passion for primary education\n- Valid Working with Children Check\n\n## What's on offer\n\n- Comprehensive induction and mentoring\n- Ongoing professional learning\n- A collaborative, values-led community\n\n## About Brightpath Education\n\nBrightpath Education is a leading education & training organisation. Inspiring learners for life. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Brightpath Education as a Primary School Teacher. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-20T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Education & Training role. Similar candidates highlighted strong mentoring program as a key drawcard."
+  },
+  {
+    "id": "job_007",
+    "title": "Data Analyst",
+    "employerId": "emp_004",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Business/Systems Analysts",
+    "salary": {
+      "min": 110000,
+      "max": 130000,
+      "period": "year",
+      "display": "$110,000 – $130,000 + super"
+    },
+    "teaser": "Turn data into insight that shapes better outcomes for millions of customers.",
+    "bullets": [
+      "Hybrid working",
+      "Cutting-edge data platform",
+      "Award-winning culture"
+    ],
+    "description": "## About the role\n\nWe're looking for a curious Data Analyst to help our teams make data-driven decisions. You'll work with large datasets to surface insights that drive real impact.\n\n## What you'll be doing\n\n- Analyse data to identify trends and opportunities\n- Build dashboards and self-serve reporting\n- Partner with stakeholders to frame and answer questions\n- Ensure data quality and governance\n\n## What we're looking for\n\n- Strong SQL and data-visualisation skills\n- Experience with Python or R (preferred)\n- Ability to translate data into clear business narratives\n- Detail-oriented and analytical mindset\n\n## What's on offer\n\n- Flexible hybrid working\n- Access to a modern cloud data platform\n- Genuine career development opportunities\n\n## About CommBank\n\nCommBank is a leading banking & financial services organisation. Building a brighter future for all. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join CommBank as a Data Analyst. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-23T21:57:58.831Z",
+    "featured": true,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted hybrid working as a key drawcard."
+  },
+  {
+    "id": "job_008",
+    "title": "Electrician",
+    "employerId": "emp_008",
+    "location": {
+      "area": "FIFO",
+      "city": "Perth",
+      "state": "WA"
+    },
+    "workType": "Full time",
+    "classification": "Trades & Services",
+    "subClassification": "Electricians",
+    "salary": {
+      "min": 120000,
+      "max": 145000,
+      "period": "year",
+      "display": "$120,000 – $145,000 + super (FIFO)"
+    },
+    "teaser": "FIFO opportunity for a licensed electrician with a strong safety focus.",
+    "bullets": [
+      "8:6 FIFO roster",
+      "All travel covered",
+      "Industry-leading rates"
+    ],
+    "description": "## About the role\n\nWe're seeking licensed Electricians for FIFO roles on our WA resources sites. You'll carry out installation, maintenance and fault-finding to the highest safety standards.\n\n## What you'll be doing\n\n- Install, test and maintain electrical equipment and systems\n- Diagnose and repair faults efficiently\n- Complete accurate maintenance records\n- Adhere to strict site safety procedures\n\n## What we're looking for\n\n- WA Electrical Worker's Licence\n- Experience in industrial or resources environments\n- Current driver's licence and ability to pass a medical\n- Strong commitment to workplace safety\n\n## What's on offer\n\n- Attractive FIFO package with all travel covered\n- Stable, long-term project work\n- Ongoing training and ticket renewals\n\n## About Ironbark Resources\n\nIronbark Resources is a leading engineering organisation. Responsible resources for a changing world. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Ironbark Resources as a Electrician. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-19T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Trades & Services role. Similar candidates highlighted 8:6 fifo roster as a key drawcard."
+  },
+  {
+    "id": "job_009",
+    "title": "Marketing Manager",
+    "employerId": "emp_010",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Full time",
+    "classification": "Marketing & Communications",
+    "subClassification": "Marketing Communications",
+    "salary": {
+      "min": 120000,
+      "max": 140000,
+      "period": "year",
+      "display": "$120,000 – $140,000 + super"
+    },
+    "teaser": "Own the marketing strategy for a fast-growing, design-led agency.",
+    "bullets": [
+      "Creative, collaborative culture",
+      "Hybrid working",
+      "Real ownership & impact"
+    ],
+    "description": "## About the role\n\nWe're after a strategic Marketing Manager to lead our brand and demand-generation efforts. You'll shape our story and drive measurable growth.\n\n## What you'll be doing\n\n- Develop and execute the marketing strategy\n- Lead campaigns across digital, content and events\n- Manage budgets and report on ROI\n- Mentor a small, talented marketing team\n\n## What we're looking for\n\n- 5+ years in marketing, including team leadership\n- Proven track record driving growth\n- Strong analytical and storytelling skills\n- Experience with modern marketing tooling\n\n## What's on offer\n\n- Hybrid working and flexible hours\n- A genuinely creative, supportive culture\n- Professional-development budget\n\n## About Designhive\n\nDesignhive is a leading marketing & communications organisation. Brand and product design, beautifully done. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Designhive as a Marketing Manager. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-22T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Marketing & Communications role. Similar candidates highlighted creative, collaborative culture as a key drawcard."
+  },
+  {
+    "id": "job_010",
+    "title": "Accountant",
+    "employerId": "emp_012",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Accounting",
+    "subClassification": "Taxation",
+    "salary": {
+      "min": 85000,
+      "max": 100000,
+      "period": "year",
+      "display": "$85,000 – $100,000 + super"
+    },
+    "teaser": "Grow your career in a respected advisory firm with a diverse client portfolio.",
+    "bullets": [
+      "CA/CPA support",
+      "Diverse client base",
+      "Clear progression"
+    ],
+    "description": "## About the role\n\nWe're seeking a qualified Accountant to join our business-services team, working with a varied portfolio of SME and corporate clients.\n\n## What you'll be doing\n\n- Prepare financial statements and tax returns\n- Provide proactive advice to clients\n- Support month-end and compliance processes\n- Build strong, trusted client relationships\n\n## What we're looking for\n\n- CA/CPA qualified or working towards\n- Experience in public practice (preferred)\n- Strong technical and Excel skills\n- Excellent client-communication skills\n\n## What's on offer\n\n- Full CA/CPA study support\n- Mentoring from experienced partners\n- A collaborative, growth-focused firm\n\n## About Pinnacle Advisory\n\nPinnacle Advisory is a leading accounting organisation. Trusted advice for ambitious businesses. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Pinnacle Advisory as a Accountant. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-18T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Accounting role. Similar candidates highlighted ca/cpa support as a key drawcard."
+  },
+  {
+    "id": "job_011",
+    "title": "Enrolled Nurse",
+    "employerId": "emp_005",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Part time",
+    "classification": "Healthcare & Medical",
+    "subClassification": "Nursing - General Medical & Surgical",
+    "salary": {
+      "min": 70000,
+      "max": 80000,
+      "period": "year",
+      "display": "$70,000 – $80,000 pro-rata + super"
+    },
+    "teaser": "Provide compassionate care as part of a values-driven hospital team.",
+    "bullets": [
+      "Salary packaging",
+      "Flexible part-time hours",
+      "Supportive team"
+    ],
+    "description": "## About the role\n\nWe're looking for a dedicated Enrolled Nurse to join our medical-surgical ward. You'll deliver high-quality, person-centred care alongside an experienced team.\n\n## What you'll be doing\n\n- Provide direct nursing care under RN supervision\n- Monitor and document patient observations\n- Support patients and families with empathy\n- Maintain a safe, clean clinical environment\n\n## What we're looking for\n\n- Diploma of Nursing and current AHPRA registration\n- Medication-endorsed (preferred)\n- Strong teamwork and communication skills\n- Compassionate, patient-first approach\n\n## What's on offer\n\n- Generous not-for-profit salary packaging\n- Flexible rosters to suit your life\n- Career and education pathways\n\n## About Mercy Health\n\nMercy Health is a leading healthcare & medical organisation. Compassionate care for every stage of life. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Mercy Health as a Enrolled Nurse. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-21T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Healthcare & Medical role. Similar candidates highlighted salary packaging as a key drawcard."
+  },
+  {
+    "id": "job_012",
+    "title": "DevOps Engineer",
+    "employerId": "emp_011",
+    "location": {
+      "area": "Canberra",
+      "city": "Canberra",
+      "state": "ACT"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Networks & Systems Administration",
+    "salary": {
+      "min": 130000,
+      "max": 155000,
+      "period": "year",
+      "display": "$130,000 – $155,000 + super"
+    },
+    "teaser": "Automate and scale critical national infrastructure in a high-trust environment.",
+    "bullets": [
+      "Security clearance support",
+      "Hybrid working",
+      "Cutting-edge cloud stack"
+    ],
+    "description": "## About the role\n\nWe're seeking a DevOps Engineer to build and maintain the automation, pipelines and platforms that keep our services reliable and secure.\n\n## What you'll be doing\n\n- Design and maintain CI/CD pipelines\n- Automate infrastructure with IaC (Terraform)\n- Improve observability, reliability and security\n- Support production systems and incident response\n\n## What we're looking for\n\n- Strong experience with AWS or Azure\n- Proficiency with Terraform, Docker and Kubernetes\n- Scripting skills (Python, Bash)\n- Australian citizenship (security clearance required)\n\n## What's on offer\n\n- Support to obtain security clearance\n- Flexible hybrid working\n- Meaningful, nation-scale work\n\n## About Telecorp\n\nTelecorp is a leading information & communication technology organisation. Keeping the nation connected. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Telecorp as a DevOps Engineer. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-17T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted security clearance support as a key drawcard."
+  },
+  {
+    "id": "job_013",
+    "title": "Retail Store Manager",
+    "employerId": "emp_007",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Brisbane",
+      "state": "QLD"
+    },
+    "workType": "Full time",
+    "classification": "Retail & Consumer Products",
+    "subClassification": "Management - Store",
+    "salary": {
+      "min": 75000,
+      "max": 90000,
+      "period": "year",
+      "display": "$75,000 – $90,000 + super + bonus"
+    },
+    "teaser": "Lead a busy supermarket team to deliver a great experience every day.",
+    "bullets": [
+      "Performance bonus",
+      "Leadership development",
+      "Genuine progression"
+    ],
+    "description": "## About the role\n\nWe're looking for an energetic Store Manager to lead our team, delight customers and drive store performance.\n\n## What you'll be doing\n\n- Lead, coach and roster a large store team\n- Drive sales, service and operational standards\n- Manage inventory, compliance and budgets\n- Create a safe, engaging workplace\n\n## What we're looking for\n\n- Retail or hospitality management experience\n- Strong leadership and people skills\n- Commercial acumen and a hands-on approach\n- Flexibility to work a rotating roster\n\n## What's on offer\n\n- Attractive bonus structure\n- Structured leadership development\n- Clear pathways to multi-site roles\n\n## About Fresh Grocer\n\nFresh Grocer is a leading retail & consumer products organisation. Fresh food, fairer prices, every day. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Fresh Grocer as a Retail Store Manager. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-16T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Retail & Consumer Products role. Similar candidates highlighted performance bonus as a key drawcard."
+  },
+  {
+    "id": "job_014",
+    "title": "UX/UI Designer",
+    "employerId": "emp_010",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Web & Interaction Design",
+    "salary": {
+      "min": 100000,
+      "max": 125000,
+      "period": "year",
+      "display": "$100,000 – $125,000 + super"
+    },
+    "teaser": "Craft beautiful, intuitive product experiences for ambitious clients.",
+    "bullets": [
+      "Design-led culture",
+      "Latest tools & hardware",
+      "Flexible hybrid"
+    ],
+    "description": "## About the role\n\nWe're seeking a talented UX/UI Designer to shape end-to-end product experiences — from research and wireframes through to polished, accessible interfaces.\n\n## What you'll be doing\n\n- Conduct user research and synthesise insights\n- Design wireframes, prototypes and high-fidelity UI\n- Maintain and evolve our design system\n- Collaborate closely with engineers and PMs\n\n## What we're looking for\n\n- Strong portfolio of shipped product work\n- Expertise in Figma and modern design practice\n- Solid understanding of accessibility\n- Great communication and collaboration skills\n\n## What's on offer\n\n- A genuinely design-led environment\n- Top-tier tools and hardware\n- Flexible hybrid working\n\n## About Designhive\n\nDesignhive is a leading marketing & communications organisation. Brand and product design, beautifully done. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Designhive as a UX/UI Designer. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-20T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted design-led culture as a key drawcard."
+  },
+  {
+    "id": "job_015",
+    "title": "Personal Banker",
+    "employerId": "emp_002",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Full time",
+    "classification": "Banking & Financial Services",
+    "subClassification": "Banking - Retail/Branch",
+    "salary": {
+      "min": 70000,
+      "max": 80000,
+      "period": "year",
+      "display": "$70,000 – $80,000 + super + incentives"
+    },
+    "teaser": "Help customers achieve their financial goals with expert, friendly service.",
+    "bullets": [
+      "Incentive program",
+      "Banking accreditation",
+      "Career pathways"
+    ],
+    "description": "## About the role\n\nJoin our branch team as a Personal Banker, where you'll build relationships and help customers with their everyday banking and lending needs.\n\n## What you'll be doing\n\n- Understand customer needs and recommend solutions\n- Process everyday banking and lending applications\n- Educate customers on digital banking\n- Meet service and quality standards\n\n## What we're looking for\n\n- Customer-service or retail experience\n- Strong interpersonal and listening skills\n- Comfortable with targets and compliance\n- A genuine desire to help customers\n\n## What's on offer\n\n- Industry-recognised accreditation\n- Rewarding incentive program\n- Clear pathways into lending or advice\n\n## About ANZ\n\nANZ is a leading banking & financial services organisation. We shape a world where people and communities thrive. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join ANZ as a Personal Banker. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-19T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Banking & Financial Services role. Similar candidates highlighted incentive program as a key drawcard."
+  },
+  {
+    "id": "job_016",
+    "title": "Flight Attendant",
+    "employerId": "emp_006",
+    "location": {
+      "area": "Sydney Airport",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Hospitality & Tourism",
+    "subClassification": "Airlines",
+    "salary": {
+      "min": 60000,
+      "max": 72000,
+      "period": "year",
+      "display": "$60,000 – $72,000 + allowances"
+    },
+    "teaser": "Deliver safe, memorable journeys for travellers across our network.",
+    "bullets": [
+      "Travel benefits",
+      "Paid initial training",
+      "Inclusive team culture"
+    ],
+    "description": "## About the role\n\nWe're recruiting Flight Attendants to deliver outstanding customer care and safety on board. Full initial training is provided.\n\n## What you'll be doing\n\n- Ensure passenger safety and comfort\n- Deliver attentive in-flight service\n- Respond calmly to onboard situations\n- Represent our brand with professionalism\n\n## What we're looking for\n\n- Outstanding customer-service skills\n- Ability to obtain an aviation security card\n- Flexibility to work varied rosters\n- Swim and reach-height requirements\n\n## What's on offer\n\n- Generous travel benefits\n- Comprehensive paid training\n- A diverse, supportive crew community\n\n## About Skyline Air\n\nSkyline Air is a leading hospitality & tourism organisation. Connecting Australia to the world. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Skyline Air as a Flight Attendant. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-15T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Hospitality & Tourism role. Similar candidates highlighted travel benefits as a key drawcard."
+  },
+  {
+    "id": "job_017",
+    "title": "Civil Engineer",
+    "employerId": "emp_008",
+    "location": {
+      "area": "CBD, Inner & Western Suburbs",
+      "city": "Perth",
+      "state": "WA"
+    },
+    "workType": "Full time",
+    "classification": "Engineering",
+    "subClassification": "Civil/Structural Engineering",
+    "salary": {
+      "min": 110000,
+      "max": 135000,
+      "period": "year",
+      "display": "$110,000 – $135,000 + super"
+    },
+    "teaser": "Design and deliver infrastructure that shapes communities.",
+    "bullets": [
+      "Major project pipeline",
+      "Chartership support",
+      "Flexible working"
+    ],
+    "description": "## About the role\n\nWe're seeking a Civil Engineer to support the design and delivery of major infrastructure projects across the state.\n\n## What you'll be doing\n\n- Produce designs, calculations and documentation\n- Support project delivery and site queries\n- Coordinate with multidisciplinary teams\n- Ensure compliance with standards and codes\n\n## What we're looking for\n\n- Degree in Civil Engineering\n- 3+ years' relevant experience\n- Proficiency with civil design software\n- Working towards Chartered status (preferred)\n\n## What's on offer\n\n- Support to achieve Chartered status\n- A strong pipeline of major projects\n- Flexible working arrangements\n\n## About Ironbark Resources\n\nIronbark Resources is a leading engineering organisation. Responsible resources for a changing world. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Ironbark Resources as a Civil Engineer. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-14T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Engineering role. Similar candidates highlighted major project pipeline as a key drawcard."
+  },
+  {
+    "id": "job_018",
+    "title": "Physiotherapist",
+    "employerId": "emp_013",
+    "location": {
+      "area": "Western Sydney",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Healthcare & Medical",
+    "subClassification": "Physiotherapy, OT & Rehabilitation",
+    "salary": {
+      "min": 90000,
+      "max": 105000,
+      "period": "year",
+      "display": "$90,000 – $105,000 + super"
+    },
+    "teaser": "Make a real difference to patient recovery in a leading public-health service.",
+    "bullets": [
+      "Salary packaging",
+      "Professional development",
+      "Multidisciplinary team"
+    ],
+    "description": "## About the role\n\nWe're seeking a Physiotherapist to provide high-quality assessment and treatment across inpatient and outpatient services.\n\n## What you'll be doing\n\n- Assess, diagnose and treat patients\n- Develop and review evidence-based care plans\n- Educate patients, families and carers\n- Contribute to service improvement\n\n## What we're looking for\n\n- AHPRA registration as a Physiotherapist\n- Strong clinical-reasoning skills\n- Experience across acute or community settings\n- Excellent communication skills\n\n## What's on offer\n\n- Attractive salary packaging\n- Ongoing professional development\n- Supportive multidisciplinary team\n\n## About NSW Health\n\nNSW Health is a leading healthcare & medical organisation. Caring for the health of the people of NSW. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join NSW Health as a Physiotherapist. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-18T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Healthcare & Medical role. Similar candidates highlighted salary packaging as a key drawcard."
+  },
+  {
+    "id": "job_019",
+    "title": "Sales Representative",
+    "employerId": "emp_014",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Brisbane",
+      "state": "QLD"
+    },
+    "workType": "Full time",
+    "classification": "Sales",
+    "subClassification": "Sales Representatives/Consultants",
+    "salary": {
+      "min": 70000,
+      "max": 85000,
+      "period": "year",
+      "display": "$70,000 – $85,000 + uncapped commission"
+    },
+    "teaser": "Uncapped earning potential for a driven, relationship-focused salesperson.",
+    "bullets": [
+      "Uncapped commission",
+      "Warm leads provided",
+      "Fast-track to management"
+    ],
+    "description": "## About the role\n\nWe're looking for an energetic Sales Representative to grow our client base and build lasting relationships.\n\n## What you'll be doing\n\n- Identify and pursue new business opportunities\n- Build and maintain strong client relationships\n- Manage your pipeline in our CRM\n- Consistently meet and exceed targets\n\n## What we're looking for\n\n- Proven sales or business-development experience\n- Excellent communication and negotiation skills\n- Self-motivated and resilient\n- Current driver's licence\n\n## What's on offer\n\n- Uncapped commission structure\n- A steady stream of warm leads\n- Genuine fast-track to leadership\n\n## About Talentbridge\n\nTalentbridge is a leading sales organisation. Connecting great people with great companies. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Talentbridge as a Sales Representative. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-22T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Sales role. Similar candidates highlighted uncapped commission as a key drawcard."
+  },
+  {
+    "id": "job_020",
+    "title": "Chef de Partie",
+    "employerId": "emp_006",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Full time",
+    "classification": "Hospitality & Tourism",
+    "subClassification": "Chefs/Cooks",
+    "salary": {
+      "min": 65000,
+      "max": 75000,
+      "period": "year",
+      "display": "$65,000 – $75,000 + super"
+    },
+    "teaser": "Bring your passion for food to a busy, quality-focused kitchen.",
+    "bullets": [
+      "Creative menu input",
+      "Career development",
+      "Great team culture"
+    ],
+    "description": "## About the role\n\nWe're seeking a talented Chef de Partie to run a section in our high-volume kitchen, delivering consistent, high-quality dishes.\n\n## What you'll be doing\n\n- Run an allocated section of the kitchen\n- Prepare and present dishes to a high standard\n- Maintain food-safety and hygiene standards\n- Support and mentor junior kitchen staff\n\n## What we're looking for\n\n- Certificate III in Commercial Cookery\n- Experience in a busy professional kitchen\n- Strong organisation under pressure\n- Passion for quality and consistency\n\n## What's on offer\n\n- Input into seasonal menus\n- Structured development and progression\n- A supportive, high-energy team\n\n## About Skyline Air\n\nSkyline Air is a leading hospitality & tourism organisation. Connecting Australia to the world. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Skyline Air as a Chef de Partie. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-13T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Hospitality & Tourism role. Similar candidates highlighted creative menu input as a key drawcard."
+  },
+  {
+    "id": "job_021",
+    "title": "HR Business Partner",
+    "employerId": "emp_004",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Banking & Financial Services",
+    "subClassification": "Human Resources & Recruitment",
+    "salary": {
+      "min": 120000,
+      "max": 140000,
+      "period": "year",
+      "display": "$120,000 – $140,000 + super"
+    },
+    "teaser": "Partner with leaders to build engaged, high-performing teams.",
+    "bullets": [
+      "Hybrid working",
+      "Strategic remit",
+      "Award-winning culture"
+    ],
+    "description": "## About the role\n\nWe're seeking an experienced HR Business Partner to support our business units on people strategy, capability and culture.\n\n## What you'll be doing\n\n- Coach and advise leaders on people matters\n- Drive talent, performance and engagement initiatives\n- Support organisational change\n- Use people data to inform decisions\n\n## What we're looking for\n\n- Proven HR business-partnering experience\n- Strong stakeholder-management skills\n- Sound knowledge of employment relations\n- A pragmatic, commercial mindset\n\n## What's on offer\n\n- Flexible hybrid working\n- A genuinely strategic remit\n- Award-winning, inclusive culture\n\n## About CommBank\n\nCommBank is a leading banking & financial services organisation. Building a brighter future for all. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join CommBank as a HR Business Partner. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-17T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Banking & Financial Services role. Similar candidates highlighted hybrid working as a key drawcard."
+  },
+  {
+    "id": "job_022",
+    "title": "Warehouse Team Member",
+    "employerId": "emp_007",
+    "location": {
+      "area": "Outer Suburbs",
+      "city": "Brisbane",
+      "state": "QLD"
+    },
+    "workType": "Casual/Vacation",
+    "classification": "Trades & Services",
+    "subClassification": "Warehousing, Storage & Distribution",
+    "salary": {
+      "min": 32,
+      "max": 38,
+      "period": "hour",
+      "display": "$32 – $38 per hour + penalties"
+    },
+    "teaser": "Flexible casual shifts in a fast-paced distribution centre.",
+    "bullets": [
+      "Flexible shifts",
+      "Penalty rates",
+      "Ongoing work"
+    ],
+    "description": "## About the role\n\nWe're looking for reliable Warehouse Team Members to help pick, pack and dispatch orders across our distribution centre.\n\n## What you'll be doing\n\n- Pick, pack and replenish stock accurately\n- Load and unload deliveries safely\n- Maintain a clean, safe work area\n- Meet productivity and quality targets\n\n## What we're looking for\n\n- Ability to perform physical work\n- Reliability and a strong work ethic\n- Forklift licence (advantageous)\n- Availability for varied shifts\n\n## What's on offer\n\n- Flexible casual shifts\n- Attractive penalty rates\n- Genuine ongoing opportunities\n\n## About Fresh Grocer\n\nFresh Grocer is a leading retail & consumer products organisation. Fresh food, fairer prices, every day. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Fresh Grocer as a Warehouse Team Member. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-23T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Trades & Services role. Similar candidates highlighted flexible shifts as a key drawcard."
+  },
+  {
+    "id": "job_023",
+    "title": "Product Manager",
+    "employerId": "emp_009",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Product Management & Development",
+    "salary": {
+      "min": 150000,
+      "max": 175000,
+      "period": "year",
+      "display": "$150,000 – $175,000 + super + equity"
+    },
+    "teaser": "Own the roadmap for products used by thousands of businesses.",
+    "bullets": [
+      "Equity",
+      "Hybrid working",
+      "High autonomy"
+    ],
+    "description": "## About the role\n\nWe're seeking a Product Manager to define strategy, prioritise the roadmap and deliver products customers love.\n\n## What you'll be doing\n\n- Define product vision, strategy and roadmap\n- Discover and validate customer problems\n- Prioritise and deliver with engineering and design\n- Measure outcomes and iterate\n\n## What we're looking for\n\n- Proven product-management experience in SaaS\n- Strong discovery and analytical skills\n- Excellent communication and influence\n- A bias for outcomes over output\n\n## What's on offer\n\n- Meaningful equity\n- High autonomy and impact\n- Flexible hybrid working\n\n## About Stackforge\n\nStackforge is a leading information & communication technology organisation. Software that scales with your ambition. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Stackforge as a Product Manager. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-21T21:57:58.831Z",
+    "featured": true,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted equity as a key drawcard."
+  },
+  {
+    "id": "job_024",
+    "title": "Graduate Software Engineer",
+    "employerId": "emp_003",
+    "location": {
+      "area": "North Shore & Northern Beaches",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Developers/Programmers",
+    "salary": {
+      "min": 80000,
+      "max": 90000,
+      "period": "year",
+      "display": "$80,000 – $90,000 + super"
+    },
+    "teaser": "Kick-start your tech career in a structured graduate program.",
+    "bullets": [
+      "Structured grad program",
+      "Mentoring",
+      "Rotations across teams"
+    ],
+    "description": "## About the role\n\nOur Graduate Software Engineer program is designed to launch your career, with rotations, mentoring and real, impactful work from day one.\n\n## What you'll be doing\n\n- Contribute to real software projects\n- Learn modern engineering practices\n- Rotate across different teams\n- Participate in structured learning\n\n## What we're looking for\n\n- Degree in Computer Science or related\n- Foundational coding skills (any language)\n- Eagerness to learn and collaborate\n- Strong problem-solving ability\n\n## What's on offer\n\n- A structured, supportive grad program\n- Dedicated mentors and buddies\n- Clear pathways into permanent roles\n\n## About Optus\n\nOptus is a leading information & communication technology organisation. It starts with yes. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Optus as a Graduate Software Engineer. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-19T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted structured grad program as a key drawcard."
+  },
+  {
+    "id": "job_025",
+    "title": "Midwife",
+    "employerId": "emp_005",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Full time",
+    "classification": "Healthcare & Medical",
+    "subClassification": "Nursing - Midwifery, Neonatal & SCN",
+    "salary": {
+      "min": 88000,
+      "max": 102000,
+      "period": "year",
+      "display": "$88,000 – $102,000 + super"
+    },
+    "teaser": "Support families through one of life's most important moments.",
+    "bullets": [
+      "Salary packaging",
+      "Continuity-of-care model",
+      "Supportive team"
+    ],
+    "description": "## About the role\n\nWe're seeking a compassionate Midwife to provide woman-centred care across our maternity service.\n\n## What you'll be doing\n\n- Provide antenatal, labour and postnatal care\n- Support and educate new families\n- Document care accurately\n- Work within a multidisciplinary team\n\n## What we're looking for\n\n- AHPRA registration as a Midwife\n- Strong clinical and communication skills\n- Commitment to woman-centred care\n- Ability to work a rotating roster\n\n## What's on offer\n\n- Generous salary packaging\n- A supportive continuity-of-care model\n- Ongoing education and development\n\n## About Mercy Health\n\nMercy Health is a leading healthcare & medical organisation. Compassionate care for every stage of life. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Mercy Health as a Midwife. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-16T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Healthcare & Medical role. Similar candidates highlighted salary packaging as a key drawcard."
+  },
+  {
+    "id": "job_026",
+    "title": "Financial Accountant",
+    "employerId": "emp_002",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Full time",
+    "classification": "Accounting",
+    "subClassification": "Financial Accounting & Reporting",
+    "salary": {
+      "min": 100000,
+      "max": 120000,
+      "period": "year",
+      "display": "$100,000 – $120,000 + super"
+    },
+    "teaser": "Own reporting and analysis that supports key business decisions.",
+    "bullets": [
+      "Hybrid working",
+      "Big-four calibre",
+      "Career development"
+    ],
+    "description": "## About the role\n\nWe're seeking a Financial Accountant to support month-end, reporting and analysis in a fast-paced finance team.\n\n## What you'll be doing\n\n- Prepare month-end and statutory reporting\n- Reconcile accounts and resolve variances\n- Support audit and compliance\n- Drive process improvements\n\n## What we're looking for\n\n- CA/CPA qualified\n- Strong technical accounting knowledge\n- Advanced Excel and systems skills\n- Excellent attention to detail\n\n## What's on offer\n\n- Flexible hybrid working\n- Exposure to complex, interesting work\n- Clear development pathways\n\n## About ANZ\n\nANZ is a leading banking & financial services organisation. We shape a world where people and communities thrive. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join ANZ as a Financial Accountant. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-15T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Accounting role. Similar candidates highlighted hybrid working as a key drawcard."
+  },
+  {
+    "id": "job_027",
+    "title": "Carpenter",
+    "employerId": "emp_008",
+    "location": {
+      "area": "CBD, Inner & Western Suburbs",
+      "city": "Perth",
+      "state": "WA"
+    },
+    "workType": "Contract/Temp",
+    "classification": "Trades & Services",
+    "subClassification": "Carpentry & Cabinet Making",
+    "salary": {
+      "min": 45,
+      "max": 55,
+      "period": "hour",
+      "display": "$45 – $55 per hour"
+    },
+    "teaser": "Skilled carpenter wanted for ongoing commercial projects.",
+    "bullets": [
+      "Ongoing contract",
+      "Great rates",
+      "Quality projects"
+    ],
+    "description": "## About the role\n\nWe're seeking an experienced Carpenter for commercial construction projects, with ongoing work for the right person.\n\n## What you'll be doing\n\n- Carry out carpentry and formwork tasks\n- Read and interpret plans\n- Work safely on site\n- Deliver quality finishes on time\n\n## What we're looking for\n\n- Trade qualification in Carpentry\n- White Card and relevant tickets\n- Commercial construction experience\n- Reliable with own transport and tools\n\n## What's on offer\n\n- Competitive hourly rates\n- Ongoing project pipeline\n- Quality, well-run sites\n\n## About Ironbark Resources\n\nIronbark Resources is a leading engineering organisation. Responsible resources for a changing world. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Ironbark Resources as a Carpenter. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-20T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Trades & Services role. Similar candidates highlighted ongoing contract as a key drawcard."
+  },
+  {
+    "id": "job_028",
+    "title": "Content Marketing Specialist",
+    "employerId": "emp_010",
+    "location": {
+      "area": "CBD & Inner Suburbs",
+      "city": "Melbourne",
+      "state": "VIC"
+    },
+    "workType": "Full time",
+    "classification": "Marketing & Communications",
+    "subClassification": "Digital & Search Marketing",
+    "salary": {
+      "min": 85000,
+      "max": 100000,
+      "period": "year",
+      "display": "$85,000 – $100,000 + super"
+    },
+    "teaser": "Tell great stories that build audiences and drive growth.",
+    "bullets": [
+      "Creative culture",
+      "Hybrid working",
+      "Real impact"
+    ],
+    "description": "## About the role\n\nWe're looking for a Content Marketing Specialist to plan, create and optimise content across our channels.\n\n## What you'll be doing\n\n- Plan and produce engaging content\n- Own the editorial calendar\n- Optimise content for SEO and conversion\n- Measure and report on performance\n\n## What we're looking for\n\n- Proven content-marketing experience\n- Excellent writing and editing skills\n- Understanding of SEO and analytics\n- A creative, audience-first mindset\n\n## What's on offer\n\n- A genuinely creative environment\n- Flexible hybrid working\n- Professional-development budget\n\n## About Designhive\n\nDesignhive is a leading marketing & communications organisation. Brand and product design, beautifully done. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Designhive as a Content Marketing Specialist. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-12T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Marketing & Communications role. Similar candidates highlighted creative culture as a key drawcard."
+  },
+  {
+    "id": "job_029",
+    "title": "Project Coordinator",
+    "employerId": "emp_011",
+    "location": {
+      "area": "Canberra",
+      "city": "Canberra",
+      "state": "ACT"
+    },
+    "workType": "Full time",
+    "classification": "Administration & Office Support",
+    "subClassification": "PA, EA & Secretarial",
+    "salary": {
+      "min": 80000,
+      "max": 92000,
+      "period": "year",
+      "display": "$80,000 – $92,000 + super"
+    },
+    "teaser": "Keep complex projects on track in a fast-paced delivery team.",
+    "bullets": [
+      "Hybrid working",
+      "Varied portfolio",
+      "Supportive team"
+    ],
+    "description": "## About the role\n\nWe're seeking an organised Project Coordinator to support our delivery teams with planning, tracking and reporting.\n\n## What you'll be doing\n\n- Coordinate project schedules and actions\n- Track risks, issues and dependencies\n- Prepare reports and meeting materials\n- Support project managers across the portfolio\n\n## What we're looking for\n\n- Project-coordination or administration experience\n- Excellent organisation and communication\n- Strong attention to detail\n- Comfortable with project tooling\n\n## What's on offer\n\n- Flexible hybrid working\n- A varied, interesting portfolio\n- Genuine development opportunities\n\n## About Telecorp\n\nTelecorp is a leading information & communication technology organisation. Keeping the nation connected. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Telecorp as a Project Coordinator. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-14T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Administration & Office Support role. Similar candidates highlighted hybrid working as a key drawcard."
+  },
+  {
+    "id": "job_030",
+    "title": "Cyber Security Analyst",
+    "employerId": "emp_004",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Security",
+    "salary": {
+      "min": 120000,
+      "max": 145000,
+      "period": "year",
+      "display": "$120,000 – $145,000 + super"
+    },
+    "teaser": "Help protect millions of customers from evolving cyber threats.",
+    "bullets": [
+      "Hybrid working",
+      "Cutting-edge tooling",
+      "Strong career growth"
+    ],
+    "description": "## About the role\n\nWe're seeking a Cyber Security Analyst to monitor, detect and respond to security threats across our environment.\n\n## What you'll be doing\n\n- Monitor and triage security alerts\n- Investigate and respond to incidents\n- Improve detection and response capability\n- Support security awareness across teams\n\n## What we're looking for\n\n- Experience in a SOC or security role\n- Knowledge of common attack techniques\n- Familiarity with SIEM and EDR tooling\n- Relevant certifications (advantageous)\n\n## What's on offer\n\n- Flexible hybrid working\n- Access to leading security tooling\n- Strong career-growth pathways\n\n## About CommBank\n\nCommBank is a leading banking & financial services organisation. Building a brighter future for all. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join CommBank as a Cyber Security Analyst. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-18T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted hybrid working as a key drawcard."
+  },
+  {
+    "id": "job_031",
+    "title": "Disability Support Worker",
+    "employerId": "emp_016",
+    "location": {
+      "area": "Gold Coast",
+      "city": "Gold Coast",
+      "state": "QLD"
+    },
+    "workType": "Part time",
+    "classification": "Healthcare & Medical",
+    "subClassification": "Aged & Disability Support",
+    "salary": {
+      "min": 34,
+      "max": 40,
+      "period": "hour",
+      "display": "$34 – $40 per hour + super"
+    },
+    "teaser": "Make a meaningful difference in people's everyday lives.",
+    "bullets": [
+      "Flexible hours",
+      "Rewarding work",
+      "Paid training"
+    ],
+    "description": "## About the role\n\nWe're seeking caring Disability Support Workers to support participants to live independently and achieve their goals.\n\n## What you'll be doing\n\n- Provide personal care and daily-living support\n- Support participants in the community\n- Follow individual support plans\n- Maintain accurate records\n\n## What we're looking for\n\n- Certificate III in Individual Support (or willingness to obtain)\n- NDIS Worker Screening Check\n- Genuine empathy and patience\n- Current driver's licence\n\n## What's on offer\n\n- Flexible hours to suit your life\n- Paid training and development\n- Deeply rewarding work\n\n## About Coastline Care\n\nCoastline Care is a leading healthcare & medical organisation. Aged and community care, close to home. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Coastline Care as a Disability Support Worker. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-22T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Healthcare & Medical role. Similar candidates highlighted flexible hours as a key drawcard."
+  },
+  {
+    "id": "job_032",
+    "title": "Business Development Manager",
+    "employerId": "emp_014",
+    "location": {
+      "area": "CBD, Inner West & Eastern Suburbs",
+      "city": "Sydney",
+      "state": "NSW"
+    },
+    "workType": "Full time",
+    "classification": "Sales",
+    "subClassification": "New Business Development",
+    "salary": {
+      "min": 110000,
+      "max": 130000,
+      "period": "year",
+      "display": "$110,000 – $130,000 + commission"
+    },
+    "teaser": "Drive growth by winning and developing key accounts.",
+    "bullets": [
+      "Uncapped commission",
+      "Autonomy",
+      "Career growth"
+    ],
+    "description": "## About the role\n\nWe're seeking a results-driven Business Development Manager to identify opportunities, win new business and grow strategic accounts.\n\n## What you'll be doing\n\n- Develop and execute a territory plan\n- Win new business and grow existing accounts\n- Build strong, lasting client relationships\n- Forecast and report accurately\n\n## What we're looking for\n\n- Proven B2B sales/BD track record\n- Excellent negotiation and presentation skills\n- Strategic, consultative selling style\n- Self-motivated and target-driven\n\n## What's on offer\n\n- Uncapped commission\n- High autonomy and ownership\n- Strong career-growth potential\n\n## About Talentbridge\n\nTalentbridge is a leading sales organisation. Connecting great people with great companies. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Talentbridge as a Business Development Manager. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-17T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Sales role. Similar candidates highlighted uncapped commission as a key drawcard."
+  },
+  {
+    "id": "job_033",
+    "title": "High School Teacher - Mathematics",
+    "employerId": "emp_015",
+    "location": {
+      "area": "Adelaide",
+      "city": "Adelaide",
+      "state": "SA"
+    },
+    "workType": "Full time",
+    "classification": "Education & Training",
+    "subClassification": "Teaching - Secondary",
+    "salary": {
+      "min": 80000,
+      "max": 115000,
+      "period": "year",
+      "display": "$80,000 – $115,000 + super"
+    },
+    "teaser": "Inspire the next generation of problem-solvers.",
+    "bullets": [
+      "Mentoring program",
+      "Modern facilities",
+      "Supportive community"
+    ],
+    "description": "## About the role\n\nWe're seeking a dedicated Mathematics Teacher to deliver engaging secondary lessons and support student achievement.\n\n## What you'll be doing\n\n- Plan and teach engaging maths lessons\n- Assess and report on student progress\n- Support student wellbeing\n- Contribute to the school community\n\n## What we're looking for\n\n- Teaching qualification with a maths specialisation\n- Current teacher registration (or eligibility)\n- Strong classroom-management skills\n- Valid Working with Children Check\n\n## What's on offer\n\n- Strong induction and mentoring\n- Modern teaching facilities\n- A collaborative staff community\n\n## About Brightpath Education\n\nBrightpath Education is a leading education & training organisation. Inspiring learners for life. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Brightpath Education as a High School Teacher - Mathematics. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-13T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Education & Training role. Similar candidates highlighted mentoring program as a key drawcard."
+  },
+  {
+    "id": "job_034",
+    "title": "Network Engineer",
+    "employerId": "emp_011",
+    "location": {
+      "area": "Canberra",
+      "city": "Canberra",
+      "state": "ACT"
+    },
+    "workType": "Full time",
+    "classification": "Information & Communication Technology",
+    "subClassification": "Networks & Systems Administration",
+    "salary": {
+      "min": 115000,
+      "max": 135000,
+      "period": "year",
+      "display": "$115,000 – $135,000 + super"
+    },
+    "teaser": "Design and operate the networks that keep the nation connected.",
+    "bullets": [
+      "Clearance support",
+      "Hybrid working",
+      "Critical infrastructure"
+    ],
+    "description": "## About the role\n\nWe're seeking a Network Engineer to design, implement and maintain enterprise and carrier-grade networks.\n\n## What you'll be doing\n\n- Design and configure network infrastructure\n- Monitor performance and resolve faults\n- Support security and compliance\n- Document architecture and changes\n\n## What we're looking for\n\n- Strong routing/switching experience\n- Relevant certifications (CCNP or similar)\n- Knowledge of network security\n- Australian citizenship (clearance required)\n\n## What's on offer\n\n- Support to obtain security clearance\n- Flexible hybrid working\n- Work on critical national infrastructure\n\n## About Telecorp\n\nTelecorp is a leading information & communication technology organisation. Keeping the nation connected. We're proud of our inclusive, supportive culture and our commitment to developing our people. (Fictional employer used for demo purposes only — not affiliated with any real company.)\n\n_Apply now to join Telecorp as a Network Engineer. We're an equal-opportunity employer and welcome applications from candidates of all backgrounds._",
+    "postedAt": "2026-06-11T21:57:58.831Z",
+    "featured": false,
+    "aiInsight": "Based on your profile, you could be a strong match for this Information & Communication Technology role. Similar candidates highlighted clearance support as a key drawcard."
+  }
+]

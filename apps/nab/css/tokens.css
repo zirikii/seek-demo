@@ -1,0 +1,24 @@
+/* ===========================================================
+   @demo/ui — shared design tokens
+   Exposed as CSS custom properties so any app (including the
+   static HTML site) can consume the same palette and radii.
+   Namespaced with `--demo-` to avoid colliding with app tokens.
+   =========================================================== */
+
+:root {
+  --demo-accent: #f54e00;
+  --demo-accent-ink: #ffffff;
+  --demo-ink: #26251e;
+  --demo-ink-soft: #4a4a4a;
+  --demo-bg: #f7f7f4;
+  --demo-card: #f2f1ed;
+  --demo-line: #e0ddd8;
+
+  --demo-radius-sm: 6px;
+  --demo-radius-md: 10px;
+  --demo-radius-lg: 16px;
+  --demo-radius-full: 9999px;
+
+  --demo-font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --demo-font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}

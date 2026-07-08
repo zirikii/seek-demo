@@ -1,0 +1,14 @@
+{
+  "userId": "user_demo0001",
+  "notifications": {
+    "jobRecommendations": true,
+    "savedSearchAlerts": true,
+    "applicationUpdates": true,
+    "marketInsights": false,
+    "productNews": false
+  },
+  "privacy": {
+    "visibleToRecruiters": true,
+    "hideFromCurrentEmployer": true
+  }
+}
